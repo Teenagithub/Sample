@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38080" started-at="2020-08-31T16:57:59 CDT" finished-at="2020-08-31T16:58:37 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38080" started-at="2020-08-31T16:57:59 CDT" finished-at="2020-08-31T16:58:37 CDT">
+      <class name="TestNGLearning.Button">
+        <test-method status="PASS" signature="browser()[pri:0, instance:TestNGLearning.Button@33c7e1bb]" name="browser" is-config="true" duration-ms="7726" started-at="2020-08-31T16:57:59 CDT" finished-at="2020-08-31T16:58:07 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="dblclk()[pri:0, instance:TestNGLearning.Button@33c7e1bb]" name="dblclk" duration-ms="30294" started-at="2020-08-31T16:58:07 CDT" finished-at="2020-08-31T16:58:37 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dblclk -->
+      </class> <!-- TestNGLearning.Button -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
